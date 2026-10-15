@@ -1,0 +1,8 @@
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+infra/.build/
+simulator/requests.csv
+__pycache__/
+.venv/
