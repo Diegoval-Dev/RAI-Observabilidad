@@ -3,6 +3,6 @@
 *.tfstate
 *.tfstate.*
 infra/.build/
-simulator/requests.csv
 __pycache__/
 .venv/
+simulator/requests_run1_invalid.csv
